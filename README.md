@@ -14,6 +14,8 @@
 
 ⚡ Fun facts about me: I have an obsession for getting **platinum trophies** on my games on **PS5**, I've been dancing for **20 years**, and I know where to find the **best lemon meringue pie in Paris**!
 
+![Hi](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHI5NGJlc3Jjc3N3Mzc5dnVuZXV5OTEzNWN2cGtmejhmbHNrNnQzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ib6KPmkeAjDTxMxij/giphy.gif)
+
 <!---
 PaulineTaillemite/PaulineTaillemite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
