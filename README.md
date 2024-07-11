@@ -1,4 +1,4 @@
-# 👋 Hello, My name is Pauline !
+# 👾 Hello, My name is Pauline !
 
 ![Hi](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJ6ZTBwN2pkaXhtYTlod3E1MGJibzVhY214NHUzN3RqajNjM2dsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)
 
